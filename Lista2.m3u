@@ -1,3 +1,33 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="eldukedelasapuesta IPTV", Gerado por eldukedelasapuesta IPTV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | ALF
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/77447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CASA DE PAPEL
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/77424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CINEMA DC COMICS HD
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/86234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CINEMA DC UNIVERSE HD
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/86233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CINEMA DISNEY FAMILY HD
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/86229
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CASA DE PAPEL
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/77424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CINEMA DC COMICS HD
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/86234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CINEMA DC UNIVERSE HD
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/86233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24/7 | CINEMA DREAMWORKS HD
+http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/78046
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX: La Liga
 http://flowfhd.xyz:25461/K6SmELWRFk/K6SmELWRFk/85082
